@@ -1,2 +1,2 @@
 FROM nginx:latest
-RUN 80
+EXPOSE 80
