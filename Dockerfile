@@ -1,2 +1,2 @@
 FROM nginx:latest
-RUN 8000
+RUN 80
